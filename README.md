@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachin-0101
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
