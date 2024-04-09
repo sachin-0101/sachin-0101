@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **.NET Projects**
 
-- 💬 Ask me about **.NET Core**
+- 💬 Ask me about **C#, .NET MVC, .NET Core API, Deployment** 
 
 - 📫 How to reach me **dev.sachein@gmail.com**
 
