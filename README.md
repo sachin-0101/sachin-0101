@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sachin-0101
-- 👀 I’m interested in software development
+- 👀Software Engineer
 
 
 
