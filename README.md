@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Kotapure</h1>
 <h3 align="center">A passionate .NET fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin-0101" alt="sachin-0101" /></a> </p>
+/* <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin-0101" alt="sachin-0101" /></a> </p> */
 
 - 🔭 I’m currently working on **.NET Projects**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev.sachein@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
